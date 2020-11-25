@@ -1,6 +1,8 @@
 # Contact Information
 Alana Kaffenberger
+
 Phone: (423) 366-2338 
+
 Email: akkaffenberger@gmail.com
 
 
