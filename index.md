@@ -50,7 +50,7 @@ An undergraduate student at the University of Kentucky studying Neuroscience on 
 * **Good Samaritan**  
 _February 2020 - March 2020_
 
-* **Dance Blue**  
+* **DanceBlue**  
 _March 2020_
 
 * **Center for Community Outreach**  
