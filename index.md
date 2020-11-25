@@ -7,7 +7,7 @@ Email: akkaffenberger@gmail.com
 
 
 # Professional Summary
-An undergraduate student at the University of Kentucky studying Neuroscience on a pre-med track. Completion of multiple science courses including, but not limited to: General and Organic Chemistry, Cell Biology, Biochemistry, and Intro to Neuroscience Techniques. Confident in communication skills and ability to problem solve and maintain high standards with minimal supervision. Currently looking to explore opportunities in clinical and laboratory settings. 
+An undergraduate student at the University of Kentucky studying Neuroscience on a pre-med track. Completion of multiple science courses including but not limited to: General and Organic Chemistry, Cell Biology, Biochemistry, and Intro to Neuroscience Techniques. Confident in communication skills and ability to problem solve and maintain high standards with minimal supervision. Currently looking to explore opportunities in clinical and laboratory settings. 
 
 # Education
 **University of Kentucky**
@@ -46,17 +46,20 @@ An undergraduate student at the University of Kentucky studying Neuroscience on 
 >* Conducted conflict management with parents and children
 >* Maintained composure in chaotic environments
 
-#Volunteer Experience
-* Good Samaritan
->February 2020 - March 2020
-* Dance Blue
->March 2020
-*Center for Community Outreach
->Young at Heart
->September 2018 - December 2018
+# Volunteer Experience
+Good Samaritan
+_February 2020 - March 2020_
 
-#Extra Curricular Activities 
-*Kappa Delta Sorority
->August 2019 – Present
-*Club Swim
->August 2020 – Present
+Dance Blue
+_March 2020_
+
+Center for Community Outreach
+_Young at Heart_
+_September 2018 - December 2018_
+
+# Extra Curricular Activities 
+Kappa Delta Sorority
+_August 2019 – Present_
+
+Club Swim
+_August 2020 – Present_
