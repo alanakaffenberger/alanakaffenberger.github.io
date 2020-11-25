@@ -7,7 +7,7 @@ Email: akkaffenberger@gmail.com
 
 
 # Professional Summary
-Enthusiastic student currently studying Neuroscience on a pre-med track. Strong multitasking and problem-solving skills with ability to work with minimal supervision. Academic experience in many lab environments including: General Chemistry, Organic Chemistry, Intro to Neuroscience Techniques, and Cell Biology.
+An undergraduate student at the University of Kentucky studying Neuroscience on a pre-med track. Completion of multiple science courses including, but not limited to: General and Organic Chemistry, Cell Biology, Biochemistry, and Intro to Neuroscience Techniques. Confident in communication skills and ability to problem solve and maintain high standards with minimal supervision. Currently looking to explore opportunities in clinical and laboratory settings. 
 
 # Education
 **University of Kentucky**
@@ -45,3 +45,18 @@ Enthusiastic student currently studying Neuroscience on a pre-med track. Strong 
 >* Guided, encouraged, and monitored children throughout the day with various activities such as: swimming, crafts, reading/spelling, games 
 >* Conducted conflict management with parents and children
 >* Maintained composure in chaotic environments
+
+#Volunteer Experience
+* Good Samaritan
+>February 2020 - March 2020
+* Dance Blue
+>March 2020
+*Center for Community Outreach
+>Young at Heart
+>September 2018 - December 2018
+
+#Extra Curricular Activities 
+*Kappa Delta Sorority
+>August 2019 – Present
+*Club Swim
+>August 2020 – Present
