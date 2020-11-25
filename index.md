@@ -6,7 +6,7 @@ Phone: (423) 366-2338
 Email: akkaffenberger@gmail.com
 
 
-# Professional Summary
+<ins>Professional Summary</ins>  
 An undergraduate student at the University of Kentucky studying Neuroscience on a pre-med track. Completion of multiple science courses including but not limited to: General and Organic Chemistry, Cell Biology, Biochemistry, and Intro to Neuroscience Techniques. Confident in communication skills and ability to problem solve and maintain high standards with minimal supervision. Currently looking to explore opportunities in clinical and laboratory settings. 
 
 # Education
@@ -16,8 +16,8 @@ An undergraduate student at the University of Kentucky studying Neuroscience on 
 * Graduation Date: December 2021
 
 
-# Work Experience
->## Brand Associate—Old Navy**				          
+<ins>Work Experience</ins>  
+>**Brand Associate—Old Navy**		          
 >_July 2020 – Present_
 >* Greeted customers, responded to concerns, and ensured consistent customer engagement 
 >* Achieved goals set on daily basis 
