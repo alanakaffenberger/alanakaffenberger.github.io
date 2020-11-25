@@ -31,14 +31,14 @@ Enthusiastic student currently studying Neuroscience on a pre-med track. Strong 
 >* Implemented conflict management 
 >* Practiced proper communication skills with children, coworkers, and parents 
 >
->## YMCA Assistant Director—Whitaker 			       	>	
+>## YMCA Assistant Director—Whitaker 			       		
 >_May 2019 – August 2019_
 >* Gained valuable leadership experience 
 >* Adapted to dynamic roles throughout the summer depending on demand
 >* Expanded communication skills by communicating to and between coworkers, campers, and parents 
 >* Implemented behavior management skills with campers
 >
->## YMCA Camp Counselor—Whitaker 					>	    
+>## YMCA Camp Counselor—Whitaker 						    
 >_May 2018 – August 2018_
 >* Successfully communicated with children, coworkers, and parents
 >* Gained valuable multitasking and leadership skills
