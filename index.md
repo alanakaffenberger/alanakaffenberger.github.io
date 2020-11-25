@@ -16,8 +16,8 @@ An undergraduate student at the University of Kentucky studying Neuroscience on 
 * Graduation Date: December 2021
 
 
-<ins>Work Experience</ins>  
->**Brand Associate—Old Navy**		          
+## Work Experience 
+>### Brand Associate—Old Navy	          
 >_July 2020 – Present_
 >* Greeted customers, responded to concerns, and ensured consistent customer engagement 
 >* Achieved goals set on daily basis 
