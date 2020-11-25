@@ -17,12 +17,12 @@ Enthusiastic student currently studying Neuroscience on a pre-med track. Strong 
 
 
 # Work Experience
-## Brand Associate—Old Navy				          
-_July 2020 – Present_
-* Greeted customers, responded to concerns, and ensured consistent customer engagement 
-* Achieved goals set on daily basis 
-* Restored and maintained orderly appearance of main floor
-* Managed financial transactions
+>## Brand Associate—Old Navy				          
+>_July 2020 – Present_
+>* Greeted customers, responded to concerns, and ensured consistent customer engagement 
+>* Achieved goals set on daily basis 
+>* Restored and maintained orderly appearance of main floor
+>* Managed financial transactions
 
 ## After School Counselor—Cassidy Elementary School	
 _January 2019 – March 2020_
