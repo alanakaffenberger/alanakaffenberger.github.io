@@ -48,18 +48,24 @@ An undergraduate student at the University of Kentucky studying Neuroscience on 
 
 # Volunteer Experience
 Good Samaritan
+
 _February 2020 - March 2020_
 
 Dance Blue
+
 _March 2020_
 
 Center for Community Outreach
+
 _Young at Heart_
+
 _September 2018 - December 2018_
 
 # Extra Curricular Activities 
 Kappa Delta Sorority
+
 _August 2019 – Present_
 
 Club Swim
+
 _August 2020 – Present_
