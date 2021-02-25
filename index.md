@@ -11,18 +11,18 @@ An undergraduate student at the University of Kentucky studying Neuroscience on 
 
 ## Education
 **University of Kentucky**
-* Bachelor of Science in Neuroscience, Pre-Med (3.70 GPA)
+* Bachelor of Science in Neuroscience, Pre-Med (3.69 GPA)
 * Lewis Honors College 
 * Graduation Date: December 2021
 
 
 ## Work Experience 
->### Brand Associate—Old Navy	          
->_July 2020 – Present_
->* Greeted customers, responded to concerns, and ensured consistent customer engagement 
->* Achieved goals set on daily basis 
->* Restored and maintained orderly appearance of main floor
->* Managed financial transactions
+>### Clinical Assistant—Dermatology Associates of Kentucky	          
+>_December 2020 – Present_
+>* Assisted in the examination of patients under the direct supervision of a Provider
+>* Interview patients while recording and updating medical information
+>* Checked and responded to patient messages via phone
+>* Prepared treatment rooms for examination of patients
 >
 >### After School Counselor—Cassidy Elementary School	
 >_January 2019 – March 2020_
